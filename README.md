@@ -4,3 +4,4 @@ code <----->Zhao, P., Wang, W., Zhang, G., & Lu, Y. (2021). Alleviating pseudo-t
 python Train.py [imgs directory/] [masks directory/] (dont miss the last letter '/')
 ### Inference
 python Prediction.py [imgs dir] [out_dir] [model_pth]
+You are welcome to contact me anytime: oceanytech@gmail.com
